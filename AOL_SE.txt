@@ -1,6 +1,7 @@
 AOL - To Do List & Finance Management
 Nama: Felix Tanraidy
 NIM: 2702256006
+## branch2 update ##
 
 Description:
 Project ini adalah aplikasi mobile untuk to-do list dan finance management. Project ini dibuat agar memudahkan masyarakat khususnya mahasiswa yang merantau supaya lebih terstruktur hidupnya.
